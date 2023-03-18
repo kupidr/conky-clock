@@ -8,3 +8,6 @@
 
 ### Just a slight modification of  https://www.github.com/AweGuy22/simple-conky-clock
 ### Added am and pm 
+
+## edit conky.conf command 
+sudo nautilus
