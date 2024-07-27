@@ -1,8 +1,16 @@
 # Conky Clock
 
+
+```
+./install.sh
+sudo apt install conky-all
+```
+or
+
 > Run `./install.sh` after installing conky
 
 > sudo apt install conky-all
+
 
 * Install the Product Sans font (install all variants!) from this link: https://befonts.com/download/product-sans
 
